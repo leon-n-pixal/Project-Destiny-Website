@@ -1,0 +1,36 @@
+.logo{
+    width: 72px;
+    height: 72px;
+    padding: 0;
+}
+
+.heading-images{
+    width: 150px;
+    border-radius: 4%;
+    padding: 2% 2%;
+}
+.project-header{
+    background-color: blueviolet;
+    text-align: center;
+
+}
+
+.PD-mission{
+    font-size: 1.5rem;
+    text-align: center;
+    padding: 7% 15%;
+}
+.community-impact{
+    background-color: blueviolet;
+    text-align: center;
+    line-height: 1.5;
+    padding: 7% 15%;
+    
+}
+.PD-vision{
+    text-align: left;
+
+}
+.image-1{
+width: 500px;
+}
